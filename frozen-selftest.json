@@ -1,0 +1,10 @@
+{
+  "version": "0.2.2-pyqc.2",
+  "frozen": true,
+  "python": "3.14.3 (tags/v3.14.3:323c59a, Feb  3 2026, 16:04:56) [MSC v.1944 64 bit (AMD64)]",
+  "result": "PASS",
+  "power_response": "0114",
+  "assets": "C:\\Users\\Duong\\AppData\\Local\\Temp\\_MEI260562\\assets",
+  "driver_assets_verified": 12,
+  "phase_fastid_parser_verified": true
+}

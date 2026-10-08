@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+assets/README.md
+assets/THIRD_PARTY_NOTICES.md
